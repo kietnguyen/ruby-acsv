@@ -1,7 +1,7 @@
 Auto-detecting CSV parser
 =========================
 [![Gem Version](https://badge.fury.io/rb/acsv.svg)](http://badge.fury.io/rb/acsv)
-[![Build Status](https://travis-ci.org/wvengen/ruby-acsv.png?branch=master)](https://travis-ci.org/wvengen/ruby-acsv)
+[![Build Status][gh-actions-image]][gh-actions-link]
 
 A Ruby gem to read CSVs with auto-detection of encoding and column separator.
 Just let people provide a CSV and don't require them to think about format
